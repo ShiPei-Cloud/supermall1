@@ -7,6 +7,8 @@ const EnterpriseData = () =>
 const Data = () =>
     import ("@/views/Data");
 
+
+
 Vue.use(Router)
 
 export default new Router({
